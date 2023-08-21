@@ -1,0 +1,5 @@
+gradio
+llama-index==0.8.5.post1
+llama-cpp-python
+pypdf==3.15.1
+sentence-transformers==2.2.2
